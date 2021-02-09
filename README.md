@@ -1,1 +1,1 @@
-* [mattcanty.com](mattcanty.com)
+[mattcanty.com](mattcanty.com)
